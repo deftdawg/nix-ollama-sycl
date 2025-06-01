@@ -1,6 +1,6 @@
 {
   lib,
-  buildGo122Module,
+  buildGo124Module,
   fetchFromGitHub,
   fetchpatch,
   stdenv,
