@@ -104,7 +104,7 @@
     '';
   };
 in
-  buildGo122Module {
+  buildGo124Module {
     pname = "ollama";
     inherit version src;
 
